@@ -1,4 +1,24 @@
 /* Your code here */
+#wgs {
+  position: relative;
+  display: inline-block;
+  height: 482px;
+  width: 640px;
+}
+
+#wgs_mole-head{
+  position: absolute;
+  height: 356px;
+  width: 376px;
+  left: 109px;
+}
+
+#wgs_dirt-pile {
+  position: absolute;
+  height: 220px;
+  width: 640px;
+  bottom: 0;
+}
 
 
 
