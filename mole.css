@@ -13,6 +13,10 @@
   left: 109px;
 }
 
+.wgs_mole-head--hidden {
+  margin-top: 482px;
+}
+
 #wgs_dirt-pile {
   position: absolute;
   height: 220px;
